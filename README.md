@@ -6,7 +6,7 @@ Starting code from https://github.com/notunderctrl/gpt-3.5-chat-bot
 
 ## How to setup
 
-1. Clone the repository to the current directory
+1. Clone the repository
 
 ```bash
 git clone git@github.com:Zukauskas/discordAIChatBot.git
