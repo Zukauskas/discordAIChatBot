@@ -9,7 +9,7 @@ Starting code from https://github.com/notunderctrl/gpt-3.5-chat-bot
 1. Clone the repository to the current directory
 
 ```bash
-git clone https://github.com/zukauskas/discordaichatbot.git
+git clone git@github.com:Zukauskas/discordAIChatBot.git
 ```
 
 2. Install all the dependencies
